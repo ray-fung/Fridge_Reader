@@ -1,2 +1,2 @@
 # Fridge_Reader
-A simple application to read information from a fridge tag and then convert it to more useful data.
+This application is used to extract information from a Fridge Tag. It helps to parse the data from the Fridge Tags and can be returned to another application.
